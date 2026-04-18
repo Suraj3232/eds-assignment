@@ -1,7 +1,6 @@
 # eds-assignment
 
-## Preskilet Video
-https://youtube.com/yourlink
-
+## Youtube Video
+[[https://youtube.com/https://youtu.be/o8jbDwRW1C8
 ## Cisco Certificates
 See Cisco-Certificates folder
